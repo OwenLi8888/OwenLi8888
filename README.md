@@ -1,5 +1,5 @@
 # 💫 About Me:
-@UWaterloo Eng<br>TPM Intern @ Cotriply<br>Data Engineer Intern @BuildingAssets.ai<br>4x Hackathon Winner<br><br>My interests sit at the intersection of engineering, analytics, and product thinking. I like breaking down messy problems and designing them into structured solutions.
+@UWaterloo Eng<br>Data Engineer Intern @BuildingAssets.ai<br>TPM Intern @ Cotriply<br><br>4x Hackathon Winner<br><br>My interests sit at the intersection of engineering, analytics, and product thinking. I like breaking down messy problems and designing them into structured solutions.
 
 
 ## 🌐 Socials:
