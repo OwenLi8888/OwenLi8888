@@ -1,5 +1,5 @@
-engineering @ [university of waterloo](https://uwaterloo.ca/engineering/)
+Engineering @ [University of Waterloo](https://uwaterloo.ca/engineering/)
 
-[linkedin](https://www.linkedin.com/in/owen-li-waterloo/) | [x](https://x.com/YOUR_HANDLE) | [my website](https://owenli.ca/) | [lets connect](mailto:owen.li1@uwaterloo.ca)!
+[Linkedin](https://www.linkedin.com/in/owen-li-waterloo/) | [X](https://x.com/OwenLingLing) | [My Website](https://owenli.ca/) | [Lets Connect!](mailto:owen.li1@uwaterloo.ca)!
 
 ![](https://komarev.com/ghpvc/?username=OwenLi8888&color=blue)
